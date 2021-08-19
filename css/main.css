@@ -108,6 +108,7 @@ path.current-floor{
 .counter-button{
   background-color: #fff;
   border: none;
+  cursor: pointer;
 }
 
 .counter-arrow-down{
